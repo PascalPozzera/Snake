@@ -1,0 +1,26 @@
+#game-container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#canvas-container{
+    height: 500px;
+}
+
+#score{
+    text-align: center;
+    font-size: 3rem;
+    margin: 25px;
+}
+
+#canvas{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+
+#scoreTable p {
+    text-align: center;
+}
